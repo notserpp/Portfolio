@@ -8,12 +8,8 @@ body, html {
 	scroll-behavior: auto;
 }
 
-.icon-skill{
-    font-size: 100px;
-}
-.skill-space{
-    margin-bottom: 10%;
-}
+
+
 
 h1 {
 	font-weight: 700;
@@ -229,9 +225,18 @@ hr {
 	text-align: center;
 	padding: 0px;
 }
+
+#skills .skill-space{
+	margin-bottom: 10%;
+}
+
 #skills .skill h4 {
 	font-weight: 600;
 	color: #fff;
+}
+
+#Skills .icon-skill{
+	font-size: 100px;
 }
 .chart {
 	position: relative;
